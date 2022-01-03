@@ -1,3 +1,8 @@
+/*
+https://leetcode.com/problems/combinations/discuss/27006/A-template-to-those-combination-problems
+
+*/
+
 vector<vector<int>> main(...){
     vector<vector<int>>res;  // Store the result, could be other container
     backtrack(res, ...);  // Recursion function to fill the res
